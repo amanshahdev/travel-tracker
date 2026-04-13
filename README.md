@@ -13,8 +13,8 @@ A simple PHP and MySQL web application for logging and managing personal trips. 
 
 ## Tech Stack
 
-- Backend: PHP (PDO)
-- Database: MySQL / MariaDB
+- Backend: PHP (XAMPP)
+- Database: MySQL (XAMPP)
 - Frontend: HTML, Tailwind CSS (CDN), JavaScript
 - Assets: Local CSS, JS, images, uploads directory
 
