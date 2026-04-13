@@ -1,0 +1,25 @@
+/* Custom styles to enhance Tailwind */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+input, textarea {
+    transition: border-color 0.3s;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+    border-color: #2563eb;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.card {
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
